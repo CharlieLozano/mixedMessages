@@ -1,4 +1,4 @@
-console.log("Welcome to Silly Tabletop RPG")
+console.log("Welcome to Silly RPG Tabletop Game")
 
 const races = [
     'Candyman',
